@@ -28,7 +28,7 @@ To add create an order with two products for a user.
     {
       "productId": 2,
       "productCount": 2
-    },
+    }
   ],
   "userId": 1
 }
